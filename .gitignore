@@ -1,0 +1,101 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# Type checking
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter runtime files
+.jupyter/
+profile_default/
+
+# IPython
+.ipython/
+
+# Large data files
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.pcap
+*.pcapng
+
+# Trained models
+models/
+*.h5
+*.pkl
+*.joblib
+*.onnx
+
+# Logs
+logs/
+*.log
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
